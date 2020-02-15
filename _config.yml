@@ -38,7 +38,7 @@ feedback_subject_line: hakchi2-CE
 feedback_email: tomjoht@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
@@ -112,6 +112,6 @@ description: "Intended as a documentation for users of hakchi2-CE software used 
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
 #baseurl: "Hakchi2-CE"
-baseurl: 
+baseurl:
 
 github: [metadata]

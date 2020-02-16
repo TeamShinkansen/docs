@@ -54,3 +54,5 @@ The firt time you run the software you may see an "Important message" containing
 
 Click "OK" and you will now be at the main screen.
 {% include image.html file="hakchiMain.png"  alt="Jekyll" caption="hakchi main screen" %}
+
+**You are note ready to install hakchi onto your mini**

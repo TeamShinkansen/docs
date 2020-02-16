@@ -38,7 +38,7 @@ To add art to a single game, select the game and press the "Artwork" tab in the 
     Google - Brings up a window of google images based on the game name
     Spine - (Sega only) Opens the Spine generator window with a Google images window for spine art
 
-## 2a.  Add individual art from google image search
+### 2a.  Add individual art from google image search
 For our Sega Genesis Battletoads example we will click the "Google" Button.
 {% include image.html file="GoogleImagesBattletoads.png"  alt="Jekyll" caption="Google image Battletoads" %}
 
@@ -52,13 +52,13 @@ Now we click on "Spine", Select our spine art and style then Click "OK"
 Now your artwork is complete!
 {% include image.html file="BattletoadsSpineAdded.png"  alt="Jekyll" caption="Spine artwork added" %}
 
-## 2b. Adding art to multiple games from google image search
+### 2b. Adding art to multiple games from google image search
 To add art to a multiple games, select the games you want to add art to, right click on one of them and select "Download box art for selected games"
 {% include image.html file="DownloadBoxArt.png"  alt="Jekyll" caption="Download box art" %}
 
 {% include note.html content="This will use the first google image result that is found based on the name.  It also will not populate spine art for the Sega Genesis / Mega Drive.  To add spine art refer to Step 2a" %}
 
-## 3. Click 'Synchronize selected games with mini'
+### 3. Click 'Synchronize selected games with mini'
 Now we add the game to the mini.
 Make sure the game(s) you want to add are checked in the "Current games collection" then click "Synchronize selected games with mini".
 

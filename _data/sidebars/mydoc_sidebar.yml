@@ -21,12 +21,17 @@ entries:
 
 ###  Getting started
 ###################
-  - title: Getting started
+  - title: Installing hakchi2-CE
     output: web, pdf
     folderitems:
 
-    - title: Installing hakchi
+    - title: Download and install hakchi2-CE
       url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Install hakchi mod on system
+      url: /hakchi_install_mod.html
       output: web, pdf
       type: homepage
 
@@ -45,7 +50,7 @@ entries:
       output: web, pdf
 
     - title: Installing BIOS
-      url: /mydoc_about.html
+      url: /hakchi_bios.html
       output: web, pdf
 
 

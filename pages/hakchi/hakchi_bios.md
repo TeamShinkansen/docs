@@ -7,4 +7,4 @@ folder: hakchi
 
 ### Installing BIOS
 
-WORDS
+WORDS bios

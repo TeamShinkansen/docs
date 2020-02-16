@@ -3,9 +3,9 @@ title: Support
 tags: [getting_started, troubleshooting]
 keywords: questions, troubleshooting, contact, support
 last_updated: July 3, 2016
-summary: "Where to get support."
+summary: "Where to go for support."
 sidebar: mydoc_sidebar
-permalink: mydoc_support.html
+permalink: hakchi_support.html
 folder: mydoc
 topnav: topnav
 ---
@@ -15,5 +15,5 @@ The preferred method of support is via discord, but we also have a sub-reddit as
 Rockin' The Classics Discord Server  
 <https://discord.gg/C9EDFyg>  
 
-Rockin' The Classics on Reddit
-https://www.reddit.com/r/RockinTheClassics/
+Rockin' The Classics on Reddit  
+<https://www.reddit.com/r/RockinTheClassics/>

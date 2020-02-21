@@ -31,12 +31,12 @@ If you would like to add game(s) to your system without box art you can skip the
 
 ### 1. Select game and click "Artwork" tab
 To add art to a single game, select the game and press the "Artwork" tab in the "Game options" area.
-{% include image.html file="Artwork.png"  alt="Jekyll" caption="Artwork" %}
-  Button descriptions:
-    Default - Restores the default Images
-    Browse - Locate and use images located on your local computer
-    Google - Brings up a window of google images based on the game name
-    Spine - (Sega only) Opens the Spine generator window with a Google images window for spine art
+{% include image.html file="Artwork.png"  alt="Jekyll" caption="Artwork" %}  
+  Button descriptions:  
+    Default - Restores the default Images  
+    Browse - Locate and use images located on your local computer  
+    Google - Brings up a window of google images based on the game name  
+    Spine - (Sega only) Opens the Spine generator window with a Google images window for spine art  
 
 ### 2a.  Add individual art from google image search
 For our Sega Genesis Battletoads example we will click the "Google" Button.

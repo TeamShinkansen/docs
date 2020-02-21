@@ -77,6 +77,26 @@ entries:
       url: /hakchi_devices.html
       output: web, pdf
 
+
+
+###  Getting started
+###################
+  - title: Systems
+    output: web, pdf
+    folderitems:
+
+    - title: NES
+      url: /hakchi_nes.html
+      output: web, pdf
+
+    - title: SNES
+      url: /hakchi_snes.html
+      output: web, pdf
+
+    - title: SEGA
+      url: /hakchi_sega.html
+      output: web, pdf
+
 ### Release notes
 ###################
   - title: Release Notes

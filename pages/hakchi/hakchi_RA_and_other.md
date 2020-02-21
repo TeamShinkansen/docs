@@ -50,7 +50,7 @@ The done dialog box will display when completed.
 **RA and your cores are now installed!!!**  
 
 
-## 5. Selecting core to run (optional)  
+### 5. Selecting core to run (optional)  
 By default games will attempt to run in stock emulator.  Use this option if you wish to specify a different emulator (core).  
 
 **TODO - Add system specific forces?**  
@@ -65,5 +65,5 @@ The command line will automatically be populated.
 Click "Apply"
 When complete select "Close"
 
-## 6. Adding the RetroArch 'Game' to UI
+### 6. Adding the RetroArch 'Game' to UI
 **TODO**

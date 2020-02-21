@@ -52,18 +52,35 @@ The done dialog box will display when completed.
 
 ### 5. Selecting core to run (optional)  
 By default games will attempt to run in stock emulator.  Use this option if you wish to specify a different emulator (core).  
+From the hakchi main screen:  
+Right click on one of your added games. And click on "Select emulation core..."
+{% include image.html file="game_right_click_menu.png"  alt="Jekyll" caption="Right click menu" %}  
 
-**TODO - Add system specific forces?**  
-**TODO - Clean up and add images**
+This will open the "Select Cores" windows.
+{% include image.html file="select_cores.png"  alt="Jekyll" caption="Select cores window" %}
 
-right click game
-	Click "Select emulation core..."
+When you select a game in the left section it will populate the "Console" and "Core" listings with installed options.  
+After you select your game choose the console it is for, then which core you wish to associate with it.  
+The command line will automatically be populated.  
+**Only mess with the command line if you know what you are doing**  
+{% include image.html file="select_cores_game_selected.png"  alt="Jekyll" caption="Select cores window" %}
 
-Select your game then select the core you want to associate with the game.
-The command line will automatically be populated.
-
-Click "Apply"
-When complete select "Close"
+When you are happy with your selections click "Apply"  
+When complete select "Close"  
 
 ### 6. Adding the RetroArch 'Game' to UI
-**TODO**
+Some times you may wish to enter the RetroArch UI without playing a game.  To do this you will want to install the RetroArch "Game".  This is just an Icon for your systems UI that will go into RetroArch.  
+
+First download the RetroArch game "CLV-Z-RARCH".  If this link isn't available you can ask for it in our Discord channel, someone will be able to provide it.  
+
+Once downloaded drag the zipped game file onto your "Games Collection" on the hakchi main screen.  It will be added as a new app.  
+{% include image.html file="RetroArch_InGamesList.png"  alt="Jekyll" caption="RetroArch in games list" %}  
+
+Verify RetroArch is "Checked" in the games list and click "Synchronize selected games with mini".  
+
+The RetroArch icon will now be on your system UI.
+{% include image.html file="RetroArch_InUI.png"  alt="Jekyll" caption="RetroArch on system" %}  
+
+**RetroArch is now installed!!!**
+
+{% include note.html content="Some systems will require you to add a or multiple BIOS file(s).  Move onto the next section to learn how to install required BIOS files." %} 

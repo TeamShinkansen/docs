@@ -68,8 +68,8 @@ The command line will automatically be populated.
 When you are happy with your selections click "Apply"  
 When complete select "Close"  
 
-### 6. Adding the RetroArch 'Game' to UI
-Some times you may wish to enter the RetroArch UI without playing a game.  To do this you will want to install the RetroArch "Game".  This is just an Icon for your systems UI that will go into RetroArch.  
+### 6. (Optional) Add the RetroArch 'Game' to mini
+If you wish to enter the RetroArch UI without playing a game you can add the RetroArch 'game' to the mini UI.  This is just an Icon for your systems UI that will load RetroArch.  
 
 First download the RetroArch game "CLV-Z-RARCH".  If this link isn't available you can ask for it in our Discord channel, someone will be able to provide it.  
 

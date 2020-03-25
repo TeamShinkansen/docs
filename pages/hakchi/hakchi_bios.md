@@ -6,5 +6,7 @@ folder: hakchi
 ---
 
 ### Installing BIOS
+**TODO**  
 
-WORDS bios
+**Link to Google Doc that covers consoles, cores, required BIOS files and notes**  
+<https://drive.google.com/file/d/1pd-_cy6fLKHvuWYD1s0e3cog3UKlq-B1/view>

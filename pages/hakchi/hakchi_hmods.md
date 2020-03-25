@@ -1,10 +1,9 @@
 ---
 title: HMODS
 sidebar: mydoc_sidebar
-permalink: hmods.html
+permalink: hakchi_hmods.html
 folder: hakchi
 ---
 
 ### HMODS overview
-
-WORDS
+**TODO**

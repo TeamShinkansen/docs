@@ -13,9 +13,11 @@ In the following example we will be install hakchi on a SEGA Genesis mini.  But 
 When starting hakchi you will see it is offline.  This is noted by the red circle in the lower left corner and the status of 'offline' next to it.
 {% include image.html file="offline.png"  alt="Jekyll" caption="Offline indicator" %}
 
-### 2. Kernel > Install / Repair
-For this step it doesnt' matter which system you have selected in under 'Current games collection' since the kernel is the same for all systems.
-Select Kernel > Instal / Repair
+### 2. Install the kernel
+For this step it doesnt' matter which system you have selected in under 'Current games collection' since the kernel is the same for all systems.  
+
+From the hakchi main screen:
+Select Kernel > Install / Repair
 {% include image.html file="install_repair.png"  alt="Jekyll" caption="Kernel Install / Repair" %}
 
 You will be prompted with a confirmation screen, click "Yes"

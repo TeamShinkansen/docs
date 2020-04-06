@@ -1,5 +1,5 @@
 ---
-title: Installing BIOS
+title: Release notes 3.7.0
 sidebar: mydoc_sidebar
 permalink: hakchi_rnotes_370.html
 folder: hakchi

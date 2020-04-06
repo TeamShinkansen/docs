@@ -1,5 +1,5 @@
 ---
-title: Supported devices
+title: Sega
 sidebar: mydoc_sidebar
 permalink: hakchi_sega.html
 folder: hakchi

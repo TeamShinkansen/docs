@@ -8,7 +8,8 @@ folder: hakchi
 ## Adding a new game to your mini
 
 ### 1. Click 'Add more games'
-With hakchi started and connected
+With hakchi started and connected.
+From the hakchi main screen:
 Click 'Add more games'
 {% include image.html file="AddMoreGames.png"  alt="Jekyll" caption="Add more games" %}
 
@@ -20,11 +21,8 @@ Browse your computer and select the game you would like to add and Click "Open"
 The game will now be added to the "New apps" area of the "Current games collection:"
 {% include image.html file="NewApps.png"  alt="Jekyll" caption="New apps" %}
 
-### 2b. Click 'Synchronize selected games' (Optional)
-
-{% include note.html content="At this point if you synchronize, the game it will be added to your mini, but it will have default box.  Continue on to add box art." %}
-
-If you would like to add game(s) to your system without box art you can skip the adding art section and go directly to Step 3.
+### 3. Click 'Synchronize selected games'  
+{% include note.html content="**As of hakchi 3.8.0 a scraper has been added for NES, SNES and Sega.  This will attempt to pull cover art and info from thegamesdb.  If this fails, you wish to change it or you are using a system that doesn't scrape you can follow the steps below.**." %}
 
 
 ## Adding art

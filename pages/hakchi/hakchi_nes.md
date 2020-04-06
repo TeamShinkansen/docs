@@ -1,5 +1,5 @@
 ---
-title: Supported devices
+title: NES
 sidebar: mydoc_sidebar
 permalink: hakchi_nes.html
 folder: hakchi

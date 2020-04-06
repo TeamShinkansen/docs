@@ -11,10 +11,11 @@ For this tutorial we will download RetroArch and our cores individually then ins
 ### 1. Start and connect hakchi
 
 ### 2. Download RetroArch
+From the hakchi main screen:
 Goto Modules > KMFD's Mod Hub
 {% include image.html file="menu_modules.png"  alt="Jekyll" caption="KMFD's Mod Hub" %}
 
-Goto KMFD RetroArch tab and select your flavor of RetroArch either Ozone or XMB then click download.
+Goto KMFD RetroArch tab and select your flavor of RetroArch either Ozone, RGUI or XMB then click download.
 {% include image.html file="Mod_Hub_RetroArch.png"  alt="Jekyll" caption="KMFD's RetroArch" %}
 
 The image above includes an example image for RetroArch OZone interface.  The image below is an example image of the XMB interface.  
@@ -71,12 +72,30 @@ When complete select "Close"
 ### 6. (Optional) Add the RetroArch 'Game' to mini
 If you wish to enter the RetroArch UI without playing a game you can add the RetroArch 'game' to the mini UI.  This is just an Icon for your systems UI that will load RetroArch.  
 
+#### 6a. Via mod hub
+From the hakchi main screen:
+Goto Modules > KMFD's Mod Hub  
+{% include image.html file="menu_modules.png"  alt="Jekyll" caption="KMFD's Mod Hub" %}  
+
+Goto the games tab.  
+{% include image.html file="Mod_Hub_Games.png"  alt="Jekyll" caption="KMFD's Mod Hub games tab" %}  
+
+Scroll down until you see the 'RetroArch UI:...' options.  
+{% include note.html content="There are multiple options, they are just different icons for opening RetroArch." %}  
+
+Select one of them and click download.  
+
+This will add the 'game' to your hakchi games list.  
+
+Verify 'RetroArch' UI is "Checked" in the games list and click "Synchronize selected games with mini".
+
+#### 6b. With CLV-Z-RARCH file
 First download the RetroArch game "CLV-Z-RARCH".  If this link isn't available you can ask for it in our Discord channel, someone will be able to provide it.  
 
 Once downloaded drag the zipped game file onto your "Games Collection" on the hakchi main screen.  It will be added as a new app.  
 {% include image.html file="RetroArch_InGamesList.png"  alt="Jekyll" caption="RetroArch in games list" %}  
 
-Verify RetroArch is "Checked" in the games list and click "Synchronize selected games with mini".  
+Verify 'RetroArch UI' is "Checked" in the games list and click "Synchronize selected games with mini".  
 
 The RetroArch icon will now be on your system UI.
 {% include image.html file="RetroArch_InUI.png"  alt="Jekyll" caption="RetroArch on system" %}  
@@ -84,7 +103,6 @@ The RetroArch icon will now be on your system UI.
 **RetroArch is now installed!!!**
 
 {% include note.html content="Some systems will require you to add a or multiple BIOS file(s).  Move onto the next section to learn how to install required BIOS files." %}
-
 
 **Link to Google Doc that covers consoles, cores, required BIOS files and notes**  
 <https://drive.google.com/file/d/1pd-_cy6fLKHvuWYD1s0e3cog3UKlq-B1/view>

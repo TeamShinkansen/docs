@@ -6,15 +6,17 @@ folder: hakchi
 ---
 
 ## Bluetooth overview
-At the moment this document only covers adding bluetooth to the Sega Genesis systems.  S/NES is also possible but hasn't been documented yet
-Bluetooth (S/NES requires WIFI and OTG HUB).  SEGA wifi not required due to USB ports.
+This section covers setting up bluetooth on your mini system.
 
+{% include note.html content="For the S/NES setting up Bluetooth currently requires WIFI and an OTG HUB." %}
 
-## Bluetooth (SEGA)
+{% include note.html content="For a list of supported devices got the  'Advanced' page and look in the 'Supported devices' section." %}
+
+## Bluetooth setup
 
 ### 1. Install BlueZ
 From the hakchi main screen:  
-goto Modules > Install extra modules  
+Goto Modules > Install extra modules  
 {% include image.html file="menu_modules.png"  alt="Jekyll" caption="Install extra modules" %}
 
 In "System" check box for BlueZ and click "OK"  
@@ -25,7 +27,7 @@ You will see the installing mods dialog, then the mini will reboot and then you 
 When it is complete click "OK".  
 {% include image.html file="UploadGamesDone.png"  alt="Jekyll" caption="Done" %}  
 
-the "Bluetooth" Menu is now added to the top hakchi menu listing.  
+The "Bluetooth" Menu is now added to the top hakchi menu listing.  
 
 ### 2. Pair your bluetooth controllers
 From the hakchi main screen:
@@ -37,5 +39,3 @@ Click the device to pair it.  When it is paired it will show up under paired dev
  {% include image.html file="menu_bluetooth_paired_devices.png"  alt="Jekyll" caption="Paired devices" %}
 
 **You are now ready to use your bluetooth controller**  
-
-{% include note.html content="For a list of supported devices see the Advanced > Supported devices page." %}

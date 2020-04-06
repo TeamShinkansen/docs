@@ -61,9 +61,9 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: HMODS
-      url: /hakchi_hmods.html
-      output: web, pdf
+  ##  - title: HMODS
+  ##    url: /hakchi_hmods.html
+  ##    output: web, pdf
 
     - title: Setting up wifi
       url: /hakchi_wifi.html
@@ -79,7 +79,7 @@ entries:
 
 
 
-###  Getting started
+###  Systems
 ###################
   - title: Systems
     output: web, pdf
@@ -102,6 +102,11 @@ entries:
   - title: Release Notes
     output: web, pdf
     folderitems:
+
+
+    - title: 3.8.0 Release notes
+      url: /hakchi_rnotes_380.html
+      output: web, pdf
 
     - title: 3.7.0 Release notes
       url: /hakchi_rnotes_370.html

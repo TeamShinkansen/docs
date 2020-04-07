@@ -103,6 +103,3 @@ The RetroArch icon will now be on your system UI.
 **RetroArch is now installed!!!**
 
 {% include note.html content="Some systems will require you to add a or multiple BIOS file(s).  Move onto the next section to learn how to install required BIOS files." %}
-
-**Link to Google Doc that covers consoles, cores, required BIOS files and notes**  
-<https://drive.google.com/file/d/1pd-_cy6fLKHvuWYD1s0e3cog3UKlq-B1/view>

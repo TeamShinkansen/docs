@@ -24,7 +24,8 @@ Realtek Mini USB Wireless
 
 #### Bluetooth controllers
 - Switch pro controller
-- PS4
+- DualShock3
+- DualShock4
 - 8bitdo most SHOULD work
 - 8bitdo M30
 - 8bitdo SF30 pro

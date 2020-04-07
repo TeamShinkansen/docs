@@ -8,9 +8,9 @@ summary: These brief instructions will help you get started quickly with hakchi2
 ---
 
 
-## Installing hakchi
+## Installing hakchi  
 
-Follow these instructions to install the latest version hakchi2-CE on your PC.
+Follow these instructions to install the latest version hakchi2-CE on your PC.  
 
 
 ### 1. Download hakchi  
@@ -26,7 +26,7 @@ Download your preferred version: debug, installer.exe or release.zip.
 
 ### 2. Install hakchi  
 
-#### Debug version  
+#### Debug version **Preffered**
 This version is very simple to use.  
   1. Download the debug version above  
   2. Unzip / Extract to your desired location  
@@ -65,10 +65,10 @@ C:\Program Files (x86)\Team Shinkansen\Hakchi2 CE
 
 ####  First start  
 When starting you will first see the software loading and restoring original games.  
-The firt time you run the software you may see an "Important message" containing updates or information.  
+The first time you run the software you may see an "Important message" containing updates or information.  
 {% include image.html file="importantInfo.png"  alt="Jekyll" caption="Important message" %}  
 
 Click "OK" and you will now be at the main screen.  
 {% include image.html file="hakchiMain.png"  alt="Jekyll" caption="hakchi main screen" %}  
 
-**You are note ready to install hakchi onto your mini**
+**You are now ready to install hakchi onto your mini**

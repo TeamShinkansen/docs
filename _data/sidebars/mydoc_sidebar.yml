@@ -73,10 +73,27 @@ entries:
       url: /hakchi_bluetooth.html
       output: web, pdf
 
+    - title: Overclocking
+      url: /hakchi_overclock.html
+      output: web, pdf
+
     - title: Supported devices
       url: /hakchi_devices.html
       output: web, pdf
 
+###  Themeing
+###################
+  - title: UI and Themes
+    output: web, pdf
+    folderitems:
+
+  ##  - title: HMODS
+  ##    url: /hakchi_hmods.html
+  ##    output: web, pdf
+
+    - title: Sega theming
+      url: /hakchi_theme_sega.html
+      output: web, pdf
 
 
 ###  Systems

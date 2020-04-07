@@ -99,7 +99,7 @@ From here you can scroll down and see the 'Firmware(s)' status.
 If the BIOS file was copied properly it will include **Present** in the line.  The image below shows examples of both missing and present BIOS files.  
 {% include image.html file="BIOS_PresentMissing.png"  alt="Jekyll" caption="Core information" %}   
 
-**Your BIOS files are note installed!!!**
+**Your BIOS files are now installed!!!**
 
 **Link to Google Doc that covers consoles, cores, required BIOS files and notes**  
 <https://drive.google.com/file/d/1pd-_cy6fLKHvuWYD1s0e3cog3UKlq-B1/view>

@@ -46,7 +46,23 @@ Click 'OK'.
 
 You will now be connected to the mini.  This is indicated by the green circle in the lower left corner and the status box alternating between 'Online' and 'SSH'.
 
-You are now ready to install games on your mini.
+### 3. Your device is taking to long to reboot.  
+
+*Are you installing Hakchi, but you're getting a message saying "Your system is taking too long to reboot"? Try the following suggestions:*  
+- Use the original USB Cable if using a NES/SNES Classic. The OEM cable has a white sticker  
+- Turn off Windows Firewall  
+- Turn off your VPN (if you have one) (In some instances, VPN may need uninstalled)  
+- Turn off WiFi (if using a laptop)  
+- Turn off your Antivirus  
+- If using a Virtual Machine on a Mac/Linux, go to USB Settings and enable in both FEL/Powered On Mode  
+- Also, If using Virtual Machine, make sure you have the virtual box extension pack and usb set to at least 2.0  
+- You may need to install or update RNDIS Drivers  
+- Unplug power from back of system, wait 30 seconds, plug back in, try again!  
+- Restart Computer and/or hakchi  
+
+Want to send this information in Rockin' the classics discord? Use the command !reboot in chat on the server.  
+
+*You are now ready to install games on your mini.*
 
 
 {% include links.html %}

@@ -63,6 +63,7 @@ You will now be connected to the mini.  This is indicated by the green circle in
 Want to send this information in Rockin' the classics discord? Use the command !reboot in chat on the server.  
 
 *You are now ready to install games on your mini.*
+[You are now ready to install games on your mini.](./hakchi_adding_games.html)
 
 
 {% include links.html %}

@@ -66,4 +66,6 @@ You will see the uploading dialog box.
 Then when it's completed the "Upload games done" dialog box will appear.
 {% include image.html file="UploadGamesDone.png"  alt="Jekyll" caption="Done" %}
 
+{% include note.html content="System game limits per folder.  On the S/NES systems it is recommended to keep the number of items (games and folders) to 30 or less per screen / folder.  Going beyond this may cause errors.  On the SEGA system you *may* be able to go as high as 200 before you experience menu lag. " %}    
+    
 **You are now ready to play your newly added game(s)!!!**

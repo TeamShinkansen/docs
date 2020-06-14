@@ -36,6 +36,9 @@ After a few moments it will automatically change to waiting for reboot.
 When the reboot is complete hakchi will continue installation.
 {% include image.html file="InstallingHakchiKernel2.png"  alt="Jekyll" caption="Installing again" %}
 
+{% include note.html content="**If an any point the system is says 'Taking to long to reboot' see section 3.**." %}  
+
+
 After a few more moments it will automatically change to waiting for reboot again.
 {% include image.html file="WaitingForReboot.png"  alt="Jekyll" caption="Waiting for reboot" %}
 
@@ -62,8 +65,4 @@ You will now be connected to the mini.  This is indicated by the green circle in
 
 Want to send this information in Rockin' the classics discord? Use the command !reboot in chat on the server.  
 
-*You are now ready to install games on your mini.*
-[You are now ready to install games on your mini.](./hakchi_adding_games.html)
-
-
-{% include links.html %}
+[You are now ready to install games on your mini.](./hakchi_adding_games.html)  

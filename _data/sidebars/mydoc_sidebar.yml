@@ -44,6 +44,10 @@ entries:
       url: /hakchi_adding_games.html
       output: web, pdf
 
+    - title: hakchi GUI and menu
+      url: /hakchi_GUI.html
+      output: web, pdf
+
 ###  RetroArch
 ###################
   - title: Installing RetroArch and other systems

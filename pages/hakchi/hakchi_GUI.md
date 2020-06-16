@@ -28,11 +28,9 @@ Uninstalls /hakchi folder, ROMS, HMODs and kernel updates but *NOT* saves
 *There is also a factory reset option that is like uninstall, but it also wipes your saves*  
 
 ### Advanced  
-***  
 This section has advanced options you should only use when instructed by a dev.  
 
 ### Modules  
-***  
 ##### Install extra modules  
 Select which downloaded modules you want to install.  
 If a module is greyed out it is already installed.  
@@ -51,11 +49,9 @@ Hub / repository for downloading of RetroArch, cores and other options.
 Used for adding and removing repositories.  
 
 ### View  
-***  
 Options for sorting the games list.  
 
 ### Settings  
-***  
 #### Language  
 Change the hakchi CE UI language.  
 
@@ -144,10 +140,8 @@ TODO
 TODO  
 
 ### Bluetooth  
-***  
 
-### Buttons and options  
-***  
+### Buttons and options  s
 #### Games list  
 List of games currently added to hakchi.  
 Checked games are sync'd when selected.  

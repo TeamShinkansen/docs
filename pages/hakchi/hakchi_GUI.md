@@ -31,7 +31,7 @@ Uninstalls /hakchi folder, ROMS, HMODs and kernel updates but *NOT* saves
 This section has advanced options you should only use when instructed by a dev.  
 
 ### Modules  
-##### Install extra modules  
+#### Install extra modules  
 Select which downloaded modules you want to install.  
 If a module is greyed out it is already installed.  
 

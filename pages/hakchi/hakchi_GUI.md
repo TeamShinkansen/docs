@@ -11,18 +11,17 @@ folder: hakchi
 ## Menu items  
 
 ### Kernel  
-***  
 This section goes over installing, reseting and uninstalling hakchi.  
 
-##### Install / Repair  
+#### Install / Repair  
 Install or re-install the kernel mod and /hakchi (folder)  
 **This will update any existing hakchi scripts, but doesn't delete anything**  
 
-##### Reset  
+#### Reset  
 Reset hakchi by deleting /hakchi folder then installing it again  
 **This will delete any ROMs and HMODs from NAND resulting in a freshly flashed console**  
 
-##### Uninstall  
+#### Uninstall  
 Uninstalls /hakchi folder, ROMS, HMODs and kernel updates but *NOT* saves  
 **Completely removes hakchi mod and reverts they system back to stock**  
 
@@ -104,7 +103,7 @@ TODO
 
 ### Tools  
 ***  
-##### Save state manager  
+#### Save state manager  
 TODO  
 
 #### Take screenshot  
@@ -112,7 +111,7 @@ TODO
 
 #### Save DMESG output  
 
-##### Open FTP client  
+#### Open FTP client  
 Opens a file explorer window to transferring files to your mini.  
 
 Shouldn't be needed when using this option, but if you need to enter the info manually:
@@ -121,7 +120,7 @@ Port: 21
 Login: root  
 Pass: none   
 
-##### Open Telnet client  
+#### Open Telnet client  
 Remote telnet login to the system
 
 Host: 169.254.13.37  
@@ -159,7 +158,7 @@ e.g. Select emulation core.
 #### Add more games  
 Adds more games to current games list.  
 
-##### Export to USB
+#### Export to USB
 Syncs your checked games to a USB stick.  Requires  a USB 2.0 or 3.0 (system USB ports are only 2.0) formatted to EXT4 or NTFS.   
 Insert USB into your PC running hakchi and press export.   
 Safely remove.  
@@ -168,5 +167,5 @@ Power on.
 When using USB storage on your mini and hakchi is connected the space estimation in the bottom right corner now reflects the USB storage.  
 Pressing SYNC now syncs with the USB NOT the mini.  
 
-##### Synchronize selected games with mini
+#### Synchronize selected games with mini
 Syncs all checked game from the game list to the mini when USB storage is not used.  If USB storage (Export to USB) is used **AND** connected to the mini sync games will be sync'd to the USB.  

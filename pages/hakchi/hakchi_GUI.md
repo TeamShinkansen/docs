@@ -5,9 +5,6 @@ permalink: hakchi_GUI.html
 folder: hakchi
 ---
 
-
-
-
 ## Menu items  
 
 ### Kernel  
@@ -70,7 +67,7 @@ These lists are maintained in separate folders in the hakchi2-ce folder.
 Examples:  
 - /games  
 - /games_md  
-- /mages_snes  
+- /games_snes  
 etc...  
 
 #### Compress games when adding  
@@ -119,6 +116,7 @@ Pass: none
 #### Open Telnet client  
 Remote telnet login to the system
 
+Shouldn't be needed when using this option, but if you need to enter the info manually:
 Host: 169.254.13.37  
 Port: 23  
 Login: root  

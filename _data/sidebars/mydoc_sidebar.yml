@@ -149,3 +149,7 @@ entries:
     - title: hakchi support
       url: /hakchi_support.html
       output: web, pdf
+      
+    - title: About hakchi
+      url: /hakchi_about.html
+      output: web, pdf
